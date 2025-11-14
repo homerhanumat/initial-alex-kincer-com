@@ -8,6 +8,8 @@ type: page
 weight: 3
 ---
 
+**HSW**:  Did you mean "flattening an array" (not "loop")?
+
 
 This article comes from information gathered in reading [Chapter Five in Eloquent JavaScript](https://eloquentjavascript.net/05_higher_order.html). Once the lesson was learned, CSC 324 provided [this Homework Assignment](https://homerhanumat.github.io/csc324resources/exercises/eloquent-ch05.html). This article will discuss and break down Exercise One, Flattening.
 
